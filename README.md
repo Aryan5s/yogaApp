@@ -29,7 +29,7 @@ This is a simple Yoga Class Booking App. In this project I've used ReactJS for t
 ## API Documentation
 ## How to run this project
 ### Clone the repository
-    git clone https://github.com/rohit1kumar/flexmoney.git
+    git clone https://github.com/Aryan5s/yogaApp.git
 
 ### Change the directory
     cd flexmoney
