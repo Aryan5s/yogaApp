@@ -14,7 +14,9 @@ This is a simple Yoga Class Booking App. In this project I've used ReactJS for t
 - A Fake Payment
 ---
 ## ER Diagram
-![ER Diagram](https://drive.google.com/file/d/1d2W4Eji4pMEMiL7ZaXfiR4LOG_ia15jA/view)
+Link to ER Diagram : https://drive.google.com/file/d/1d2W4Eji4pMEMiL7ZaXfiR4LOG_ia15jA/view
+
+Copy paste this link in other tab and it will show you the ER Diagram
 
  *Why I chose this ER Diagram?*
 
